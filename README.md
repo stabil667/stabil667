@@ -4,7 +4,7 @@
 🐈 Tekrardan herkese selam!
 
 - Kendimden biraz bahsedeyim. ben Oktay namı diğer [stabil](https://github.com/stabil667) 18 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
-6 - 7 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [rufflws](https://github.com/rufflws) 'a teşekkürlerimi sunuyorum :)
+6 - 7 yıla yakındır sosyal medya işleriyle uğraşıyorum. Bana bu yolda [rufflws](https://github.com/rufflws)'a teşekkürlerimi sunuyorum :)
 Kendimi geliştirmekteyim , her zaman da kendimi geliştirmeye devam edeceğim!
 
 
